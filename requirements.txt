@@ -1,0 +1,3 @@
+# CSS 선택자가 Streamlit 내부 data-testid 에 의존한다.
+# 1.63 에서 동작을 확인했으므로 그 아래 버전은 하한으로 두지 않는다.
+streamlit>=1.63
